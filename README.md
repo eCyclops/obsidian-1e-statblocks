@@ -1,3 +1,8 @@
+# Please Note!!!
+
+This is currently a clone of a 5e statblock project. No work has yet been done to make it compatible with 1E.
+
+
 # Obsidian TTRPG Statblocks
 
 Create, manage, and view a TTRPG Bestiary in Obsidian.md.
